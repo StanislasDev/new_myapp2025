@@ -1,0 +1,16 @@
+{
+    "name": "stanis/new_myapp2025",
+    "description": "php",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stanislas",
+            "email": "simostanley91@gmail.com"
+        }
+    ],
+    "require": {}
+}
